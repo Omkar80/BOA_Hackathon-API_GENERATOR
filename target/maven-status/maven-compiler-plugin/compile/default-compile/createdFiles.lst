@@ -1,0 +1,7 @@
+com/boa/apigenerator/model/ApiSpec.class
+com/boa/apigenerator/service/InputSpecParser.class
+com/boa/apigenerator/ApiGeneratorApplication.class
+com/boa/apigenerator/controller/GeneratorController.class
+com/boa/apigenerator/service/ApiProjectGeneratorService.class
+com/boa/apigenerator/service/InputSpecParser$1.class
+com/boa/apigenerator/service/Templates.class

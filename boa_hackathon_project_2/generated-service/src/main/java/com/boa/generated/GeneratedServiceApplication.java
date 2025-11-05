@@ -1,0 +1,11 @@
+package com.boa.generated;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GeneratedServiceApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(GeneratedServiceApplication.class, args);
+    }
+}
